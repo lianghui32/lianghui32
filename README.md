@@ -14,7 +14,6 @@
 | 项目 | 简介 | 技术栈 |
 |---|---|---|
 | [seed-phrase-recovery](https://github.com/lianghui32/seed-phrase-recovery) | 找回丢失/记错的 BIP-39 助记词（穷举第 12 词 + 地址验证） | Node.js · BIP-39 |
-| [crypto-quant-system](https://github.com/lianghui32/crypto-quant-system) | 加密货币现货量化系统：策略 / 风控 / 回测 / Web 面板全链路，77 个测试 + CI 全绿 | Python · CCXT |
 | [sinan-ai-platform](https://github.com/lianghui32/sinan-ai-platform) | 跨境电商 AI 中台，107 个测试 + CI 全绿 | Python · Django |
 | [beacon-tower](https://github.com/lianghui32/beacon-tower) | 全栈可观测平台 | Python |
 | [StockMing](https://github.com/lianghui32/StockMing) | 股票数据管理与预测（Django + TensorFlow） | Python · ML |
@@ -28,6 +27,7 @@
 | 启迪宽客 | 内容平台（DevHub）：文章发布、订阅支付、搜索分析与限流 | [qidiquant.com](https://qidiquant.com) | [qidiquant](https://github.com/lianghui32/qidiquant)（私有） |
 | QDV 回测站 | A股 + 加密货币策略回测：五套战法 JS 移植、45 组 parity 基准校验、会员与易支付 | [qd.qidiquant.com](https://qd.qidiquant.com) | [QDV](https://github.com/lianghui32/QDV)（私有） |
 | AI Factor | 量化因子库展示与下载平台：因子绩效、IC/IR、净值走势、Python 实现导出 | [aifactor.qidiquant.com](https://aifactor.qidiquant.com) | [Factor-Factory](https://github.com/lianghui32/Factor-Factory)（私有） |
+| 量化交易系统 | 加密货币现货量化：策略 / 风控 / 回测 / Web 面板全链路，77 个测试 + CI | 暂未部署线上站点 | [crypto-quant-system](https://github.com/lianghui32/crypto-quant-system)（私有） |
 
 ## 🛠️ 技术栈
 
