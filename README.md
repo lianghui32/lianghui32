@@ -20,6 +20,14 @@
 | [rs2pdf](https://github.com/lianghui32/rs2pdf) | 极简 Flask 文件下载服务 | Python · Flask |
 | [Flask-TodoList](https://github.com/lianghui32/Flask-TodoList) | Flask + SQLAlchemy 待办应用 | Python · SQLite |
 
+## 🌐 线上产品
+
+| 产品 | 简介 | 在线访问 | 源码 |
+|---|---|---|---|
+| 启迪宽客 | 内容平台（DevHub）：文章发布、订阅支付、搜索分析与限流 | [qidiquant.com](https://qidiquant.com) | [qidiquant](https://github.com/lianghui32/qidiquant)（私有） |
+| QDV 回测站 | A股 + 加密货币策略回测：五套战法 JS 移植、45 组 parity 基准校验、会员与易支付 | [qd.qidiquant.com](https://qd.qidiquant.com) | [QDV](https://github.com/lianghui32/QDV)（私有） |
+| AI Factor | 量化因子库展示与下载平台：因子绩效、IC/IR、净值走势、Python 实现导出 | [aifactor.qidiquant.com](https://aifactor.qidiquant.com) | [Factor-Factory](https://github.com/lianghui32/Factor-Factory)（私有） |
+
 ## 🛠️ 技术栈
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
